@@ -1,0 +1,1 @@
+# curso_basico_qgis_4_edicion_capas

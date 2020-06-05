@@ -21,12 +21,7 @@ Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pe
 http://psig.es/Curs_QGIS_basic_D_Edicio_capes.zip (89 MB)
 
 #### video 1- Aprenderás a inciar la edición y herramientas básicas
-
-
-#### video 2- Herramienta de vértex
-
-
-#### vídeo 3- Evitar intersección
+https://youtu.be/seRccLQZByc
 
 
 #### vídeo 4 - Panel digitalización avanzada

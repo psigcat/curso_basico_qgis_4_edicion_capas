@@ -4,10 +4,9 @@
 ## https://github.com/psigcat/curso_basico_qgis_4_edicion_capas
 
 ## Tema 4 Edición de capas
-https://cibernarium.barcelonactiva.cat/home
 
 #### Resumen del curso
-Curso básico de QGIS. Aprende editar una capa vectorial, crea, modificar o elimina geomatrias y atributos.
+Curso básico de QGIS. Aprende editar una capa vectorial, crea, modificar o elimina geometrías y atributos.
 
 #### Presentación y normas de uso
 Benvinguda i instruccions d'ús
